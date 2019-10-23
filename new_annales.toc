@@ -1,0 +1,19 @@
+\babel@toc {english}{}
+\thispagestyle {empty}
+\contentsline {part}{I\hspace {1em}Introductory Remarks}{1}{part.1}% 
+\contentsline {chapter}{\nonumberline About the Roosevelt Club}{2}{chapter*.1}% 
+\contentsline {chapter}{\nonumberline Letter From The Editor}{4}{chapter*.2}% 
+\contentsline {part}{II\hspace {1em}Long Reads}{5}{part.2}% 
+\contentsline {chapter}{\nonumberline A Quest for Identity in Berlin}{6}{chapter*.3}% 
+\contentsline {chapter}{\nonumberline "Open the gate!"}{9}{chapter*.4}% 
+\contentsline {chapter}{\nonumberline Suddenly It Blew Away Like Dust}{13}{chapter*.5}% 
+\contentsline {chapter}{\nonumberline "Tear Down This Wall!"}{16}{chapter*.6}% 
+\contentsline {part}{III\hspace {1em}Quick Takes}{21}{part.3}% 
+\contentsline {chapter}{\nonumberline Trading Sovereignty For Credibility: The Power Of MNCs}{22}{chapter*.7}% 
+\contentsline {chapter}{\nonumberline Is One Week A Long Time In Politics?}{24}{chapter*.8}% 
+\contentsline {chapter}{\nonumberline Renewable Energy: All Talk?}{26}{chapter*.9}% 
+\contentsline {chapter}{\nonumberline Fighting Hyperinflation in Venezuela}{29}{chapter*.10}% 
+\contentsline {part}{IV\hspace {1em}Reviews}{31}{part.4}% 
+\contentsline {chapter}{\nonumberline Principles}{32}{chapter*.11}% 
+\contentsline {part}{V\hspace {1em}Closing Remarks}{34}{part.5}% 
+\contentsline {chapter}{\nonumberline Letter from the President}{35}{chapter*.12}% 

@@ -1,0 +1,67 @@
+\documentclass{roosevelt}
+
+%%%%  PACKAGES
+\usepackage{blindtext}
+\usepackage{lipsum}									% Packages to create dummy text
+\usepackage{epstopdf}								% Converts .eps to .pdf
+%\usepackage{chicago}
+%\usepackage{deluxetable}
+%\usepackage{rotate}
+%\usepackage[hang,small,labelfont=bf,up,textfont=it,up]{caption}	% Custom captions under/above floats
+%\usepackage{subfig}									% Subfigures
+%\usepackage{booktabs}								% Nicer tables
+
+% Font defined in class file roosevelt.cls
+%
+%\massiveblue
+%\hugegreycapitals
+%\largegreycapitals
+%\largebluecapitals
+
+%%%  Change appearance of chapter titles
+\usepackage{titlesec}
+% part
+\titleformat{\part}[display]
+  {\usefont{T1}{librebaskerville}{b}{n}\color{rooseveltblue}\selectfont}
+  {\partname\ \thepart}{30pt}{\yuge}
+% chapter
+\titleformat{\chapter}[display]
+  {\usefont{T1}{librebaskerville}{b}{n}\color{rooseveltblue}\selectfont}
+  {\chaptertitlename\ \thechapter}{30pt}{\yuge}
+% section
+\titleformat{\section}
+  {\normalfont\sffamily\Large\bfseries\color{rooseveltblue}}
+  {\thesection}{1em}{}
+
+% You can change the colour of the hyperlinks here
+\usepackage[pdfa,breaklinks,colorlinks,urlcolor=rooseveltblue,citecolor=rooseveltblue,linkcolor=black]{hyperref}
+
+
+\begin{document}
+
+\title{New Annales}
+\onecolumn
+\volumenumber{I}
+\issuenumber{II}
+\semester{Autumn 2019}
+\issnprint{xxxx-xxxx}
+\issnweb{2632-394X}
+\editor{Laurent B\'elanger}
+\publishing{Freddie Kellett}
+\layout{Laurent B\'elanger \\ Freddie Kellett \\ Guillaume B\'elanger}
+
+\maketitle
+
+\tableofcontents
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+\pagenumbering{gobble}
+
+% to add a blank page
+\cleardoubleoddpage 
+
+\pagenumbering{arabic}
+
+% This means insert the contents of this file
+\input{include_contents}
+
+\end{document}
