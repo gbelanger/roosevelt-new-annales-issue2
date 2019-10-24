@@ -205,10 +205,10 @@ ISSN: \@issnweb \, [web] \\
 \begin{minipage}{0.6\linewidth}
 \justify
 \ssp
-\noindent New Annales is the semesterly publication of the Roosevelt Club. \href{www.rooseveltclub.co.uk}{www.rooseveltclub.co.uk} \\
+\noindent New Annales is the semesterly publication of the Roosevelt Group. \\ \\ \href{https://www.roosevelt-group.org}{www.roosevelt-group.org} \\
 
 \smallskip
-\noindent This publication contains the collective views of an international group of students and does not necessarily represent the views, decisions, or the stated policy of the Roosevelt Club. \\
+\noindent This publication contains the collective views of an international group of students and does not necessarily represent the views, decisions, or the stated policy of the Roosevelt Group. \\
 
 \smallskip
 \noindent Printed in the United Kingdom.
@@ -228,7 +228,7 @@ ISSN: \@issnweb \, [web] \\
 \setlength{\footheight}{24.0pt}
 \ofoot{}
 \rofoot*{\largegreycapitals{\@semester}\makebox[0pt][l]{\hspace*{1em}\colorbox{rooseveltblue}{\strut\makebox[\textwidth][l]{\enskip\strut\pagemark}}}}
-\lefoot*{\makebox[0pt][r]{\colorbox{rooseveltblue}{\makebox[\textwidth][r]{\pagemark\strut\enskip}}\hspace*{1em}}\largegreycapitals{rooseveltclub.co.uk  \;\;---\;\;  new annales}}
+\lefoot*{\makebox[0pt][r]{\colorbox{rooseveltblue}{\makebox[\textwidth][r]{\pagemark\strut\enskip}}\hspace*{1em}}\largegreycapitals{roosevelt-group.org  \;\;---\;\;  new annales}}
 
 % Header
 
