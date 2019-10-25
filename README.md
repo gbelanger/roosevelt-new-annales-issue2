@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is an updated version of what was done for the Roosevelt Club's New Annales Issue 1. Specific filenames below are from Issus 1.
+This is an updated version of what was done for the Roosevelt Club's New Annales Issue 1. Specific filenames below are from Issue 1.
 
 The purpose of this repository is to store the contents of the Roosevelt Club's New Annales Issue 2. This is a LaTeX project whose main class is `roosevelt.cls` and parent file is `new_annales.tex`. Several scripts are used to automate and facilitate the building of the document. Ideally, one should be able to run the scripts in one shot using `./run_all_scripts.sh`. Here we explain the different steps separately.
 
