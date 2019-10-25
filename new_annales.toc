@@ -4,17 +4,15 @@
 \contentsline {chapter}{\nonumberline About the Roosevelt Group}{2}{chapter*.1}% 
 \contentsline {chapter}{\nonumberline Letter From The Editor}{4}{chapter*.2}% 
 \contentsline {part}{II\hspace {1em}Long Reads}{5}{part.2}% 
-\contentsline {chapter}{\nonumberline A Quest for Identity in Berlin}{6}{chapter*.3}% 
-\contentsline {chapter}{\nonumberline "Open the gate!"}{9}{chapter*.4}% 
-\contentsline {chapter}{\nonumberline "Open the gate!"}{13}{chapter*.5}% 
-\contentsline {chapter}{\nonumberline Suddenly It Blew Away Like Dust}{16}{chapter*.6}% 
-\contentsline {chapter}{\nonumberline "Tear Down This Wall!"}{19}{chapter*.7}% 
-\contentsline {part}{III\hspace {1em}Quick Takes}{23}{part.3}% 
-\contentsline {chapter}{\nonumberline Trading Sovereignty For Credibility: The Power Of MNCs}{24}{chapter*.8}% 
-\contentsline {chapter}{\nonumberline Is One Week A Long Time In Politics?}{26}{chapter*.9}% 
-\contentsline {chapter}{\nonumberline Renewable Energy: All Talk?}{28}{chapter*.10}% 
-\contentsline {chapter}{\nonumberline Fighting Hyperinflation in Venezuela}{30}{chapter*.11}% 
-\contentsline {part}{IV\hspace {1em}Reviews}{32}{part.4}% 
-\contentsline {chapter}{\nonumberline Principles}{33}{chapter*.12}% 
-\contentsline {part}{V\hspace {1em}Closing Remarks}{35}{part.5}% 
-\contentsline {chapter}{\nonumberline Letter from the President}{36}{chapter*.13}% 
+\contentsline {chapter}{\nonumberline "Open the gate!"}{6}{chapter*.3}% 
+\contentsline {chapter}{\nonumberline Suddenly It Blew Away Like Dust}{9}{chapter*.4}% 
+\contentsline {chapter}{\nonumberline "Tear Down This Wall!"}{12}{chapter*.5}% 
+\contentsline {part}{III\hspace {1em}Quick Takes}{16}{part.3}% 
+\contentsline {chapter}{\nonumberline Trading Sovereignty For Credibility: The Power Of MNCs}{17}{chapter*.6}% 
+\contentsline {chapter}{\nonumberline Is One Week A Long Time In Politics?}{19}{chapter*.7}% 
+\contentsline {chapter}{\nonumberline Renewable Energy: All Talk?}{21}{chapter*.8}% 
+\contentsline {chapter}{\nonumberline Fighting Hyperinflation in Venezuela}{23}{chapter*.9}% 
+\contentsline {part}{IV\hspace {1em}Reviews}{25}{part.4}% 
+\contentsline {chapter}{\nonumberline Principles}{26}{chapter*.10}% 
+\contentsline {part}{V\hspace {1em}Closing Remarks}{28}{part.5}% 
+\contentsline {chapter}{\nonumberline Letter from the President}{29}{chapter*.11}% 
