@@ -2,6 +2,15 @@
 \label{ch:tear-down-this-wall}
 %\textbf{An Anatomy of the Barriers that Divide Us}
 
+% Define new format just for this article that starts with F
+\renewcommand{\initial}[1]{%
+     \lettrine[lines=3,lraise=0.18,lhang=0.45,findent=5pt,nindent=0em]{
+     				\color{rooseveltblue}
+     				{\textsf{#1}}}{}}
+
+{\flushright\largegreycapitals{Gustavo Viegas}}
+\smallskip
+
 \initial{F}ew expected the events of November 9th, 1989. Pressure had been
    mounting for months and civil unrest had spread across the
    coal-polluted cities of East Germany, but when the regime's spokesman,
@@ -129,18 +138,17 @@
    happened to be on different sides when the wall was erected, the Korean
    peninsula has learnt to live with a division that is not just between
    rich and poor, technological and primitive, democratic and
-   totalitarian; more than anything, it is between open and closed. Thus,
-   it is to the subject of openness that we now turn.
+   totalitarian; more than anything, it is between open and closed. It is to this openness that we now turn.
 
    For all the talk of the history and meaning of walls, this article's
    mission has been to break them. Its title is taken from a certain
    American President who, in a famous speech to Berliners in 1982,
    exclaimed: "Mr. Gorbachev, tear down this wall!" If walls are dependent
-   upon the subjective meanings people give them, then a change in
-   people's minds could potentially confine them to history books. In that
-   spirit, the British publication The Economist published an article in
+   upon the subjective meanings people give them, a change in
+   people's minds could confine them to the history books. In that
+   spirit, \textit{The Economist} published an article in
    2017 imagining a world where borders were open. And by open, it did not
-   mean `no borders' or the end of the nation-state, but open: goods,
+   mean to spell out the end of the nation-state, it simply meant open: goods,
    services, capital and especially people would be able to move freely
    across states. Workers would go to where they are most productive,
    getting payed larger salaries by richer clients, reducing labour waste
@@ -163,3 +171,8 @@
    Progress is more than just building bridges. It is about tearing down
    walls.
 
+% Back to default from roosevelt.cls
+\renewcommand{\initial}[1]{%
+     \lettrine[lines=3,lraise=0.18,lhang=0.33,findent=5pt,nindent=0em]{
+     				\color{rooseveltblue}
+     				{\textsf{#1}}}{}}

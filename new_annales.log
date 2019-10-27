@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  25 OCT 2019 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  27 OCT 2019 12:11
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **new_annales.tex
 (./new_annales.tex
@@ -1269,8 +1269,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (./new_annales.aux (./intro/about-the-roosevelt-group.aux)
 (./intro/letter-from-the-editor_final.aux)
-(./long_reads/a-quest-for-identity-in-berlin.aux)
-(./long_reads/open-the-gate_2.aux) (./long_reads/open-the-gate_final.aux)
+(./long_reads/a-quest-for-identity-in-berlin_final.aux)
+(./long_reads/open-the-gate_final.aux)
 (./long_reads/suddenly-it-blew-away-like-dust_final.aux)
 (./long_reads/tear-down-this-wall_final.aux)
 (./quick_takes/bilateral-investment-treaties_final.aux)
@@ -1665,14 +1665,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
 
 ]
-\openout2 = `long_reads/a-quest-for-identity-in-berlin.aux'.
+\openout2 = `long_reads/a-quest-for-identity-in-berlin_final.aux'.
+
+ (./long_reads/a-quest-for-identity-in-berlin_final.tex
+chapter without number
+Package lettrine.sty Info: Targeted height = 35.42pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
+ {\textsf {"I}});
+(lettrine.sty)             reported on input line 7.
+
+Underfull \hbox (badness 1968) in paragraph at lines 7--17
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) i-dent John. F. Kennedy
+ []
 
 
-No file long_reads/a-quest-for-identity-in-berlin.tex.
-\openout2 = `long_reads/open-the-gate_2.aux'.
+Underfull \hbox (badness 6477) in paragraph at lines 18--30
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) Novem-ber 1989, al-lowed the
+ []
 
-No file long_reads/open-the-gate_2.tex.
+
+Underfull \hbox (badness 2922) in paragraph at lines 31--48
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) ning. In 1961, the wall was
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 31--48
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) barbed wire, but pub-lic trans-
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 31--48
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) "is-land men-tal-ity" within their
+ []
+
+[6
+
+
+
+]
+Underfull \hbox (badness 1622) in paragraph at lines 49--58
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) were pro-moted with the help
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 59--63
+[]\T1/LibreBaskerville-TLF/m/sc/12 (+20) Such phys-i-cal trans-for-ma-tions
+ []
+
+
+Underfull \vbox (badness 4569) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1354) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 1048) in paragraph at lines 93--100
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) of-ten con-structed from col-lec-
+ []
+
+
+Underfull \vbox (badness 4569) has occurred while \output is active []
+
+) [8]
 \openout2 = `long_reads/open-the-gate_final.aux'.
+
 
 (./long_reads/open-the-gate_final.tex
 chapter without number
@@ -1680,93 +1737,109 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {I}});
-(lettrine.sty)             reported on input line 5.
+(lettrine.sty)             reported on input line 8.
 
-Underfull \hbox (badness 1028) in paragraph at lines 5--18
+Underfull \hbox (badness 1028) in paragraph at lines 8--21
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) West, against the trap-pings of
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 5--18
+Underfull \hbox (badness 1831) in paragraph at lines 8--21
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) com-mu-nism. While the end
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 5--18
+Underfull \hbox (badness 1077) in paragraph at lines 8--21
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) the au-tumn of the very same
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 19--39
+Underfull \hbox (badness 2005) in paragraph at lines 22--42
 []\T1/LibreBaskerville-TLF/m/sc/12 (+20) Exactly thirty years later, the
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 19--39
+Underfull \hbox (badness 6995) in paragraph at lines 22--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) in 1989 is slowly crum-bling.
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 19--39
+Underfull \hbox (badness 2460) in paragraph at lines 22--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) aban-don-ment of in-ter-na-tional
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 19--39
+Underfull \hbox (badness 2600) in paragraph at lines 22--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) is un-der-scored by the Syr-ian
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 19--39
+Underfull \hbox (badness 1400) in paragraph at lines 22--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) refugee cri-sis, and a re-sult-ing
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 19--39
+Underfull \hbox (badness 2158) in paragraph at lines 22--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) sion in an Ire-land which has
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 19--39
+Underfull \hbox (badness 1629) in paragraph at lines 22--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) of a bor-der wall be-tween the
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 40--54
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) ro-pean Union and es-tab-lished
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6
-
-
-
-
+ [9
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 81--93
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) ba-sic needs like a liv-ing wage
- []
-
-
-Underfull \hbox (badness 2310) in paragraph at lines 81--93
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) and proper, ac-ces-si-ble health-
+Underfull \hbox (badness 1418) in paragraph at lines 43--57
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) ro-pean Union and es-tab-lished
  []
 
 
 Underfull \vbox (badness 4569) has occurred while \output is active []
 
- [7]
+
+Underfull \hbox (badness 1253) in paragraph at lines 71--83
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) created cli-mate change in the
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 84--94
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) Many have lost faith in their
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 84--94
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) po-lit-i-cal in-sti-tu-tions, which al-
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 84--94
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) low the ultra-rich to be-come
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 84--94
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) an `orgy of rem-i-nis-cence,' re-
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 84--94
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) tional pasts, cling-ing to them,
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [8]
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [11]
 \openout2 = `long_reads/suddenly-it-blew-away-like-dust_final.aux'.
 
 
@@ -1776,58 +1849,58 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {T}});
-(lettrine.sty)             reported on input line 4.
+(lettrine.sty)             reported on input line 7.
 
-Underfull \hbox (badness 1565) in paragraph at lines 13--24
+Underfull \hbox (badness 1565) in paragraph at lines 16--27
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) lia-ment, en-joy free en-ter-prise
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 13--24
+Underfull \hbox (badness 1205) in paragraph at lines 16--27
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) and free trade, en-force equal-
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 25--39
+Underfull \hbox (badness 1057) in paragraph at lines 28--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) rope de-gen-er-ated into a cy-cle
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 25--39
+Underfull \hbox (badness 1221) in paragraph at lines 28--42
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) sub-sumed un-der the Com-mu-
  []
 
-[9
+[12
 
 
 
 ]
-Underfull \hbox (badness 1424) in paragraph at lines 40--50
+Underfull \hbox (badness 1424) in paragraph at lines 43--53
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) be heav-ily `in-flu-enced' by the
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 40--50
+Underfull \hbox (badness 1264) in paragraph at lines 43--53
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) quickly fell into the hands of
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 51--65
+Underfull \hbox (badness 1019) in paragraph at lines 54--68
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) for the fu-sion of cutting-edge
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 51--65
+Underfull \hbox (badness 1383) in paragraph at lines 54--68
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) of super-accurate fa-cial recog-
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 51--65
+Underfull \hbox (badness 8113) in paragraph at lines 54--68
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) ni-tion tech-nol-ogy, the in-tro-
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 51--65
+Underfull \hbox (badness 1742) in paragraph at lines 54--68
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) tragic Black Mirror-esque `So-
  []
 
@@ -1835,25 +1908,25 @@ Underfull \hbox (badness 1742) in paragraph at lines 51--65
 Underfull \vbox (badness 4569) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 80--88
+Underfull \hbox (badness 1721) in paragraph at lines 83--91
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) may seem. To try and fore-
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 80--88
+Underfull \hbox (badness 1033) in paragraph at lines 83--91
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) li-ably make, now and for-ever:
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 80--88
+Underfull \hbox (badness 1286) in paragraph at lines 83--91
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) his-tory will never end. Even
  []
 
 
 Underfull \vbox (badness 4569) has occurred while \output is active []
 
- [10])
-[11
+ [13])
+[14
 
 ]
 \openout2 = `long_reads/tear-down-this-wall_final.aux'.
@@ -1864,21 +1937,21 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {F}});
-(lettrine.sty)             reported on input line 5.
+(lettrine.sty)             reported on input line 14.
 
-Underfull \hbox (badness 4454) in paragraph at lines 5--25
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) sure had been mount-ing
+Underfull \hbox (badness 4467) in paragraph at lines 14--34
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) months and civil un-rest had
  []
 
 
-Underfull \hbox (badness 7944) in paragraph at lines 5--25
+Underfull \hbox (badness 7944) in paragraph at lines 14--34
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) cities of East Ger-many, but
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3758) has occurred while \output is active []
 
- [12
+ [15
 
 
 
@@ -1888,68 +1961,68 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-Underfull \hbox (badness 2334) in paragraph at lines 83--111
+ [16]
+Underfull \hbox (badness 2334) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) many mod-ern walls are built
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 83--111
+Underfull \hbox (badness 6876) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) sim-ply to curb unau-tho-rised
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 83--111
+Underfull \hbox (badness 3769) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) are prob-a-bly think-ing of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--111
+Underfull \hbox (badness 10000) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) headline-grabbing US-Mexico
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 83--111
+Underfull \hbox (badness 2717) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) but equally im-por-tant bor-der
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 83--111
+Underfull \hbox (badness 1895) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) most for-ti-fied bor-ders on the
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 83--111
+Underfull \hbox (badness 5802) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) tall fence with more barbed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--111
+Underfull \hbox (badness 10000) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) by surveil-lance cam-eras and
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 83--111
+Underfull \hbox (badness 1509) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) over-whelm-ing the guards and
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 83--111
+Underfull \hbox (badness 3471) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) tain pro-tec-tions by Eu-ro-pean
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 83--111
+Underfull \hbox (badness 2189) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) Spain and Mo-rocco in-creased
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 83--111
+Underfull \hbox (badness 5533) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) sig-nif-i-cantly. The wall thus
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 83--111
+Underfull \hbox (badness 2990) in paragraph at lines 92--120
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) and xeno-pho-bia in-fects Eu-ro-
  []
 
@@ -1959,31 +2032,36 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-Underfull \hbox (badness 1122) in paragraph at lines 135--155
+ [17]
+Underfull \hbox (badness 1122) in paragraph at lines 143--163
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) walls are de-pen-dent upon the
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 135--155
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) them, then a change in peo-
+Underfull \hbox (badness 1028) in paragraph at lines 143--163
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) be able to move freely across
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 135--155
+Underfull \hbox (badness 1997) in paragraph at lines 143--163
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) states. Work-ers would go to
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 143--163
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) a-bly tril-lions of dol-lars richer.
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 135--155
+Underfull \hbox (badness 1874) in paragraph at lines 143--163
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) repli-cate in the Global South,
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [15]
-[16
+) [18]
+[19
 
 
 
@@ -1996,97 +2074,94 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {T}});
-(lettrine.sty)             reported on input line 4.
+(lettrine.sty)             reported on input line 8.
 
-Underfull \hbox (badness 2368) in paragraph at lines 12--21
+Underfull \hbox (badness 2368) in paragraph at lines 16--25
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) al-low for-eign in-vestors to by-
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 12--21
+Underfull \hbox (badness 2846) in paragraph at lines 16--25
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) pass do-mes-tic le-gal routes in
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 22--30
+Underfull \hbox (badness 1303) in paragraph at lines 26--34
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) ingly con-tentious in the wake
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 22--30
+Underfull \hbox (badness 4739) in paragraph at lines 26--34
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) ram-i-fi-ca-tions of sign-ing BITs.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--43
+Underfull \hbox (badness 10000) in paragraph at lines 35--47
 []\T1/LibreBaskerville-TLF/m/sc/12 (+20) The na-ture of the dis-putes
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 31--43
+Underfull \hbox (badness 4726) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) have been used by in-vestors
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--43
+Underfull \hbox (badness 10000) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) git-i-mate gov-ern-ment poli-cies
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 31--43
+Underfull \hbox (badness 2409) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) con-cern-ing pub-lic health, the
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 31--43
+Underfull \hbox (badness 5681) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) en-vi-ron-ment, safety, se-cu-rity,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 31--43
+Underfull \hbox (badness 2027) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) ing aban-doned en-vi-ron-men-tal
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 31--43
+Underfull \hbox (badness 1810) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) it is im-pos-si-ble to know how
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 31--43
+Underfull \hbox (badness 5446) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) many states have aban-doned
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--43
+Underfull \hbox (badness 10000) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) in sign-ing BITs, de-vel-op-ing
  []
 
 
-Underfull \hbox (badness 5667) in paragraph at lines 31--43
+Underfull \hbox (badness 5667) in paragraph at lines 35--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) states have es-sen-tially traded
  []
 
 
 Underfull \vbox (badness 1997) has occurred while \output is active []
 
- [17
+ [20
 
 
 
 
 ]
-Underfull \hbox (badness 1394) in paragraph at lines 44--56
+Underfull \hbox (badness 1394) in paragraph at lines 48--60
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) forced de-vel-oped coun-tries to
  []
 
 
 Underfull \vbox (badness 4569) has occurred while \output is active []
 
-) [18]
+) [21]
 \openout2 = `quick_takes/one-week-in-politics_final.aux'.
 
 
@@ -2096,38 +2171,35 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {T}});
-(lettrine.sty)             reported on input line 4.
+(lettrine.sty)             reported on input line 7.
 
-Underfull \hbox (badness 1622) in paragraph at lines 18--24
+Underfull \hbox (badness 1622) in paragraph at lines 21--27
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) jour-nal-ism, an en-ter-prise that
  []
 
 
-Underfull \vbox (badness 1997) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 25--30
+Underfull \hbox (badness 1584) in paragraph at lines 28--33
 []\T1/LibreBaskerville-TLF/m/sc/12 (+20) Anyone who has watched Yes
  []
 
 
 Underfull \vbox (badness 1997) has occurred while \output is active []
 
- [19
+ [22
 
 
 
 ]
-Underfull \hbox (badness 1005) in paragraph at lines 43--52
+Underfull \hbox (badness 1005) in paragraph at lines 46--55
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) It serves to show is that even
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 53--59
+Underfull \hbox (badness 2894) in paragraph at lines 56--62
 []\T1/LibreBaskerville-TLF/m/sc/12 (+20) Political com-men-ta-tors try to
  []
 
-) [20
+) [23
 
 ]
 \openout2 = `quick_takes/renewable-energy-tech_final.aux'.
@@ -2138,28 +2210,38 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {"T}});
-(lettrine.sty)             reported on input line 6.
+(lettrine.sty)             reported on input line 9.
 
-Underfull \hbox (badness 2941) in paragraph at lines 6--11
+Underfull \hbox (badness 1552) in paragraph at lines 9--14
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) been hear-ing that a lot
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 22--29
+Underfull \hbox (badness 3039) in paragraph at lines 24--31
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) more arid zones) are al-ready
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 36--46
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) world's most un-nat-u-ral city --
+Underfull \hbox (badness 1005) in paragraph at lines 24--31
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) storms---all of which will con-
  []
 
-[21
+
+Underfull \hbox (badness 2671) in paragraph at lines 38--48
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) neutral. Dubai---possibly the
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 38--48
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) world's most un-nat-u-ral city---
+ []
+
+[24
 
 
 
 ]
-Underfull \hbox (badness 1838) in paragraph at lines 61--69
+Underfull \hbox (badness 1838) in paragraph at lines 63--71
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) into us-able bio-fuel to re-place
  []
 
@@ -2167,16 +2249,16 @@ Underfull \hbox (badness 1838) in paragraph at lines 61--69
 Underfull \vbox (badness 4569) has occurred while \output is active []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 70--78
+Underfull \hbox (badness 3895) in paragraph at lines 72--80
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) the at-mo-sphere, we seem to
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 70--78
+Underfull \hbox (badness 1590) in paragraph at lines 72--80
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) Politi-cians need to stop us-ing
  []
 
-) [22]
+) [25]
 \openout2 = `quick_takes/venezuelan-hyperinflation_final.aux'.
 
  (./quick_takes/venezuelan-hyperinflation_final.tex
@@ -2190,29 +2272,26 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {I}});
-(lettrine.sty)             reported on input line 5.
+(lettrine.sty)             reported on input line 8.
 
-Underfull \hbox (badness 1082) in paragraph at lines 5--15
+Underfull \hbox (badness 1082) in paragraph at lines 8--18
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) of beer at once. The sec-ond
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 16--35
+Underfull \hbox (badness 3229) in paragraph at lines 19--38
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) be-longs to post-war Hun-gary,
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 16--35
+Underfull \hbox (badness 7326) in paragraph at lines 19--38
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) where hy-per-in-fla-tion reached
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23
+ [26
 
 
 
@@ -2220,26 +2299,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--70
+Underfull \hbox (badness 10000) in paragraph at lines 69--73
 []\T1/LibreBaskerville-TLF/m/sc/12 (+20) The anti-hyperinflationary
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 66--70
+Underfull \hbox (badness 2591) in paragraph at lines 69--73
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) recipe is as clear as the eco-
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 66--70
+Underfull \hbox (badness 1817) in paragraph at lines 69--73
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) Bo-li-var-ian Venezuela it is the
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 66--70
+Underfull \hbox (badness 3471) in paragraph at lines 69--73
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) ide-o-logues that rule, not the
  []
 
-) [24] [25
+) [27] [28
 
 
 
@@ -2252,77 +2331,77 @@ Package lettrine.sty Info: Targeted height = 35.42pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 32.7078pt ( \color {rooseveltblue}
  {\textsf {I}});
-(lettrine.sty)             reported on input line 4.
+(lettrine.sty)             reported on input line 7.
 
-Underfull \hbox (badness 2318) in paragraph at lines 4--11
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) hadn't heard of Ray Dalio
+Underfull \hbox (badness 6493) in paragraph at lines 7--14
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) he is not some celebrity
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 4--11
-\T1/LibreBaskerville-TLF/m/sc/12 (+20) -- he is not some celebrity
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 4--11
+Underfull \hbox (badness 1147) in paragraph at lines 7--14
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) berg, or Be-zos. But what he
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 4--11
+Underfull \hbox (badness 2293) in paragraph at lines 7--14
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) in wealth. He came from a
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 17--26
+Underfull \hbox (badness 7869) in paragraph at lines 7--14
+\T1/LibreBaskerville-TLF/m/sc/12 (+20) ily. He founded Bridge-wa-
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 20--29
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) two im-por-tant tenets of Prin-
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 27--35
+Underfull \hbox (badness 2012) in paragraph at lines 30--38
 []\T1/LibreBaskerville-TLF/m/sc/12 (+20) Transparency is nec-es-sary for
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 27--35
+Underfull \hbox (badness 1622) in paragraph at lines 30--38
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) that this no-holds-barred pro-
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 36--44
+Underfull \hbox (badness 1845) in paragraph at lines 39--47
 []\T1/LibreBaskerville-TLF/m/sc/12 (+20) A sim-i-larly im-por-tant com-po-
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 36--44
+Underfull \hbox (badness 2368) in paragraph at lines 39--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) nent of suc-cess, ac-cord-ing to
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 36--44
+Underfull \hbox (badness 2326) in paragraph at lines 39--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) key is to fail, learn, and im-
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 36--44
+Underfull \hbox (badness 1371) in paragraph at lines 39--47
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) prove quickly. If you're con-
  []
 
-[26
+[29
 
 
 
 
 ]
-Underfull \hbox (badness 1303) in paragraph at lines 45--51
+Underfull \hbox (badness 1303) in paragraph at lines 48--54
 \T1/LibreBaskerville-TLF/m/sc/12 (+20) noth-ing to hide," he says, "re-
  []
 
 
-Underfull \vbox (badness 1354) has occurred while \output is active []
+Underfull \vbox (badness 4569) has occurred while \output is active []
 
-) [27]
-[28
+) [30]
+[31
 
 
 
@@ -2341,7 +2420,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-) [29
+) [32
 
 
 
@@ -2351,8 +2430,8 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
  (./new_annales.aux (./intro/about-the-roosevelt-group.aux)
 (./intro/letter-from-the-editor_final.aux)
-(./long_reads/a-quest-for-identity-in-berlin.aux)
-(./long_reads/open-the-gate_2.aux) (./long_reads/open-the-gate_final.aux)
+(./long_reads/a-quest-for-identity-in-berlin_final.aux)
+(./long_reads/open-the-gate_final.aux)
 (./long_reads/suddenly-it-blew-away-like-dust_final.aux)
 (./long_reads/tear-down-this-wall_final.aux)
 (./quick_takes/bilateral-investment-treaties_final.aux)
@@ -2372,11 +2451,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 26785 strings out of 492166
- 512034 string characters out of 6125377
- 844048 words of memory out of 5000000
- 30517 multiletter control sequences out of 15000+600000
- 798803 words of font info for 230 fonts, out of 8000000 for 9000
+ 26786 strings out of 492166
+ 512081 string characters out of 6125377
+ 844047 words of memory out of 5000000
+ 30514 multiletter control sequences out of 15000+600000
+ 799370 words of font info for 232 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,21n,100p,9114b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/librebaskerville/lbsk_7c5
@@ -2392,10 +2471,10 @@ ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
 e/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2019
 /texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on new_annales.pdf (33 pages, 368617 bytes).
+Output written on new_annales.pdf (36 pages, 380071 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
- 43142 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 309 PDF objects out of 1000 (max. 8388607)
+ 258 compressed objects within 3 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 43150 words of extra memory for PDF output out of 51595 (max. 10000000)
 
