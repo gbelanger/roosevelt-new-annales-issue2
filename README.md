@@ -6,7 +6,7 @@ This is an updated version of what was done for the Roosevelt Club's New Annales
 
 The purpose of this repository is to store the contents of the Roosevelt Club's New Annales Issue 2. This is a LaTeX project whose main class is `roosevelt.cls` and parent file is `new_annales.tex`. Several scripts are used to automate and facilitate the building of the document. Ideally, one should be able to run the scripts in one shot using `./run_all_scripts.sh`. Here we explain the different steps separately.
 
-Note that the size and placement of the large initial capital at the start of each article is defined in roosevelt.cls, and works for most letters. This default placement was adjusted to make the left and top edges of a capital T align with the edge of the left margin and top of the tall letters (like 'h', 't', 'f', etc) in the first line. A special adjustment was made for a capital "F" and the command was renewed at the start and end of that particular article (the long read Tear Down This Wall).
+Note that the size and placement of the large initial capital at the start of each article is defined in roosevelt.cls, and works for most letters. This default placement was adjusted to make the left and top edges of a capital T align with the edge of the left margin and top of the tall letters (like 'h', 't', 'f', etc) in the first line. A special adjustment was made for a capital "F". This was done by redefining the command that specifies the placement of the large capital at the start, and then again at the end of that particular article (the long read Tear Down This Wall) to set it back to the default.
 
 ## How it works
 
