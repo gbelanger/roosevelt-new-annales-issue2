@@ -1,4 +1,4 @@
-# New Annales Issue 2 - Fall 2019 (Announced on 27.10.2019)
+# New Annales Issue 2 - Fall 2019 (27.10.2019)
 
 ## Purpose
 
