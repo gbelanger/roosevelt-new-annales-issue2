@@ -212,7 +212,7 @@ echo "5) Run the script print_latex_include.sh again, recompile new_annales.tex,
 
 The last step is to do the manual edits to each individual LaTeX file before compiling `new_annales.tex`. Note that you can use the compiler to tell you where required edits (replacement of unrecognised characters) are needed.
 
-It's important to follow the instructions printed out in the previous step. In particular, an edited file should be renamed using, for example, a suffix like _final.tex in order to distinguish it from the default filename in the case that the script grab_text_from_website.sh is run again, because this will overwrite the originallly named .tex files (those without _final).
+It's important to follow the instructions printed out in the previous step. In particular, an edited file should be renamed using, for example, a suffix like _final.tex in order to distinguish it from the default filename in the case that the script `grab_text_from_website.sh` is run again, because this will overwrite the originallly named .tex files (those without _final).
 
 If you want to keep trace of the previous version of files, you can move the original files to the superseded directory. You can, for example, before strating to edit manually, first copy the original file, and then move it as follows from the command line:
 
@@ -222,5 +222,4 @@ mv filename.tex superseded/
 ```
 (Note the slash that indicates you want to move the file inside the directory, and not change the name of file to superseded, which would happen if you didn't put the slash.)
 
-At any time during the editing process, you can regenerate the include_contents.tex file by running print_latex_include.sh to update the contents and recompile new_annales to see what it looks like. The script will construct the contents from all the .tex files in the subdirectories containing the articles (long_reads, quick_takes, etc).
-
+At any time during the editing process, you can regenerate the include_contents.tex file by running `print_latex_include.sh` to update the contents and recompile new_annales to see what it looks like. The script will construct the contents from all the .tex files in the subdirectories containing the articles (long_reads, quick_takes, etc).
