@@ -2,17 +2,17 @@
 \thispagestyle {empty}
 \contentsline {part}{I\hspace {1em}Introductory Remarks}{1}{part.1}% 
 \contentsline {chapter}{\nonumberline About the Roosevelt Group}{2}{chapter*.1}% 
-\contentsline {chapter}{\nonumberline Letter From The Editor}{4}{chapter*.2}% 
+\contentsline {chapter}{\nonumberline Letter from the Editor}{4}{chapter*.2}% 
 \contentsline {part}{II\hspace {1em}Long Reads}{5}{part.2}% 
 \contentsline {chapter}{\nonumberline A Quest for Identity in Berlin}{6}{chapter*.3}% 
 \contentsline {chapter}{\nonumberline "Open the gate!"}{9}{chapter*.4}% 
 \contentsline {chapter}{\nonumberline Suddenly It Blew Away Like Dust}{12}{chapter*.5}% 
-\contentsline {chapter}{\nonumberline "Tear Down This Wall!"}{15}{chapter*.6}% 
+\contentsline {chapter}{\nonumberline "Tear Down this Wall!"}{15}{chapter*.6}% 
 \contentsline {part}{III\hspace {1em}Quick Takes}{19}{part.3}% 
-\contentsline {chapter}{\nonumberline Trading Sovereignty For Credibility: The Power Of MNCs}{20}{chapter*.7}% 
-\contentsline {chapter}{\nonumberline Is One Week A Long Time In Politics?}{22}{chapter*.8}% 
+\contentsline {chapter}{\nonumberline Trading Sovereignty for Credibility: The Power of MNCs}{20}{chapter*.7}% 
+\contentsline {chapter}{\nonumberline Is One Week a Long Time in Politics?}{22}{chapter*.8}% 
 \contentsline {chapter}{\nonumberline Renewable Energy: All Talk?}{24}{chapter*.9}% 
-\contentsline {chapter}{\nonumberline Fighting Hyperinflation in Venezuela}{26}{chapter*.10}% 
+\contentsline {chapter}{\nonumberline Fighting Hyper\-inflation in Vene\-zuela}{26}{chapter*.10}% 
 \contentsline {part}{IV\hspace {1em}Reviews}{28}{part.4}% 
 \contentsline {chapter}{\nonumberline Principles}{29}{chapter*.11}% 
 \contentsline {part}{V\hspace {1em}Closing Remarks}{31}{part.5}% 
